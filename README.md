@@ -28,7 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Misbah-Rasheed show_icons=true&locale=en&layout=compact" alt="Misbah-Rasheed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Misbah-Rasheed show_icons=true&locale=en" alt="Misbah-Rasheed" /></p>
-<center>
-<img src="https://camo.githubusercontent.com/db5613e094a89d0b0ca4e687f68df30836ef62e126a794dd53e73891c2471ce0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f7573 65723d6d69736261687261736865656426">
-  </center>
+
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"/>
